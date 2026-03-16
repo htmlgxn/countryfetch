@@ -1,5 +1,8 @@
 # Countryfetch
 
+
+THIS IS A FORK BY @htmlgxn - flags were made wider in minor change and version is pinned to v0.2.0
+
 Countryfetch is a [neofetch](https://github.com/dylanaraps/neofetch)-like tool for fetching information about your country.
 
 ![united kingdom](https://github.com/user-attachments/assets/4da5565b-76a2-408a-9342-4af2cb012f78)
