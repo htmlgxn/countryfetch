@@ -1,7 +1,6 @@
 # Countryfetch
 
-
-THIS IS A FORK BY @htmlgxn - flags were made wider in minor change and version is pinned to v0.2.0
+THIS IS A FORK BY @htmlgxn - flags were made wider in minor change and version is pinned to commit 74abeba otherwise
 
 Countryfetch is a [neofetch](https://github.com/dylanaraps/neofetch)-like tool for fetching information about your country.
 
