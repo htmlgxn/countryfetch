@@ -210,7 +210,7 @@ fn image_to_ascii(image: image::DynamicImage) -> evil::Result<AsciiFlag> {
         &image,
         &mut flag_plain,
         &rascii_art::RenderOptions::new()
-            .width(40)
+            .width(68)
             .height(17)
             .colored(false),
     )?;
@@ -220,7 +220,7 @@ fn image_to_ascii(image: image::DynamicImage) -> evil::Result<AsciiFlag> {
         &image,
         &mut flag_colored,
         &rascii_art::RenderOptions::new()
-            .width(40)
+            .width(68)
             .height(17)
             .colored(true),
     )?;
